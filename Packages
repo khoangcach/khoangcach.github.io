@@ -1,1 +1,18 @@
-
+Package: com.khoangcach.cercube
+Version: 5.2.11N
+Priority: optional
+Section: Tweaks
+Maintainer: fewly1
+Description: Bổ sung tính năng cho Youtube!
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Architecture: iphoneos-arm
+Installed-Size: 17080
+Name: Cercube YouTube VN
+Author: Majd Alfhaily
+Depiction: Fewly1
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Depiction: https://khoangcach.github.io\depictions\com.khoangcach.cercube_5.2.11N_iphoneos-arm
+Filename: ./debs/com.khoangcach.cercube_5.2.11N_iphoneos-arm.deb
+Size: 5976924 
+MD5sum: 8413879b6cfdd55b9bdf60778d0587ca
