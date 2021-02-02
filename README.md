@@ -1,1 +1,1 @@
-# https://khoangcach.github.io
+khoangcach.github.io
