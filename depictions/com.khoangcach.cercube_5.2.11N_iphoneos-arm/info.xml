@@ -1,18 +1,18 @@
 <package>
-	<id>com.AH4Ma.ATestTweak</id>
+	<id>com.khoangcach.cercube</id>
 	<name>A Test Tweak</name>
-	<version>1.2-1</version>
+	<version>5.2.11N</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
+			<miniOS>9.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Download videos from Social Media!!</shortDescription>
+	<shortDescription>Bổ sung tính năng cho Youtube!!!</shortDescription>
 	<descriptionlist>
-		<description>Download videos from Social Media!!</description>
+		<description>Bổ sung tính năng cho Youtube!!!</description>
 		<description>It has more description lines.</description>
 		<description><![CDATA[
 		You can also have<br/> 
